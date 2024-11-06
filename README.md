@@ -276,7 +276,7 @@ Technique:** Public key encryption based on prime numbers.
 ---
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Faizan-Khanx/THM-CryptoGraphy-CTF/blob/main/LICENSE.md)) file for details.
 
 ---
 
